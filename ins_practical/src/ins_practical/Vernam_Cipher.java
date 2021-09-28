@@ -1,4 +1,4 @@
-/*Write programs to implement the following Substitution Cipher Technique : Vernam Cipher.*/
+/*Write a program to implement the following Substitution Cipher Technique : Vernam Cipher.*/
 
 package ins_practical;
 import java.io.BufferedReader;
