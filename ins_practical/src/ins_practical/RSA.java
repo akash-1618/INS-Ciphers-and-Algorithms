@@ -1,4 +1,4 @@
-/*Write program to implement RSA algorithm to perform encryption/decryption of a given string.*/
+/*Write a program to implement RSA algorithm to perform encryption/decryption of a given string.*/
 
 package ins_practical;
 import java.io.DataInputStream;
